@@ -1,4 +1,8 @@
 # VTU-CGPA_SGPA-Calculator
+---
+![Repository Size](https://img.shields.io/github/repo-size/SubramanyaKS/VTU-CGPA_SGPA-Calculator?style=for-the-badge)
+![Lines of Codes](https://img.shields.io/tokei/lines/github.com/SubramanyaKS//VTU-CGPA_SGPA-Calculator?style=for-the-badge)
+
 This repository contain Java project which calculate CGPA and SGPA of the VTU CBCS Student(2015/2017/2018).
 
 
